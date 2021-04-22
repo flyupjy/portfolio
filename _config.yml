@@ -1,0 +1,24 @@
+# Site settings
+title: JuYeon Kim`s Portfolio
+email: flyupjy7@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  시완이 시호 엄마,
+  우리 쭈쭈 녀석,
+  사랑한다.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+#deployment
+host: 0.0.0.0
+port: 4000
+listen: all
+
+#timezone
+timezone: Asia/Seoul
+future: true
