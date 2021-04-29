@@ -1,3 +1,9 @@
+/* normalize */
+* {
+    margin: 0;
+    padding: 0;
+}
+
 /**
  * Site header
  */
@@ -16,6 +22,7 @@ a:hover {
 
 .site-header {
     text-align: center;
+    background: #f0d0c9;
 }
 
 .navbar {
